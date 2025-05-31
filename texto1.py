@@ -1,2 +1,4 @@
-import matplotlib 
-print(matplotlib.__version__)
+a=23
+b=45
+m=a*b 
+print(m)
